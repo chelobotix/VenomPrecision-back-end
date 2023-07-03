@@ -12,6 +12,7 @@ product6 = Product.create(name: 'CSGO Mansion', description: 'Popular video game
 product7 = Product.create(name: 'Desert', description: 'Big desert full of obstacles and places to take cover', price: 75, image: 'https://www.thebadlandz.com/wp-content/uploads/2019/07/map.jpg', owner: user2)
 product8 = Product.create(name: 'Haunted District', description: 'An empty mini city with old cars, houses and stores', price: 65, image: 'https://2riverroadinn.com/wp-content/uploads/2020/02/map-new.jpg', owner: user1)
 product9 = Product.create(name: 'Terminator Paint Ball', description: 'Bullets for Paintball Gun', price: 10, image: 'https://m.media-amazon.com/images/I/61lw9VXCmzL.jpg', owner: user1)
+product10 = Product.create(name: 'Tippman Gun', description: 'Custom Paintball Gun 40', price: 349, image: 'https://5.imimg.com/data5/SELLER/Default/2021/7/EO/CN/KL/52978231/tippmann-custom-98-with-act-paintball-gun-1000x1000.jpg', owner: user3)
 
 Reservation.create(user_id: user3.id, city: 'New York', product: product1, date: '2023-02-02')
 Reservation.create(user_id: user3.id, city: 'New York', product: product2, date: '2023-02-02')
