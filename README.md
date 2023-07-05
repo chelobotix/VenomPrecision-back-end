@@ -145,29 +145,11 @@ To deploy this application you can use Heroku, Render or similar.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Anderson Canales**
-
-- GitHub: [@anderCM](https://github.com/anderCM)
-- LinkedIn: [/andersoncanales](https://www.linkedin.com/in/andersoncanales/)
-- Portfolio: [https://anderson-cm-portfolio.netlify.app/](https://anderson-cm-portfolio.netlify.app/)
-
 👤 **Marcelo Alarcon**
 
 - GitHub: [@chelobotix](https://github.com/chelobotix)
 - LinkedIn: [/marceloalarconb](https://www.linkedin.com/in/marceloalarconb/)
 - Portfolio: [https://chelobotix.github.io/Portafolio-Website/](https://chelobotix.github.io/Portafolio-Website/)
-
-👤 **Jakaria Jishan**
-
-- GitHub: [@JakariaJishan](https://github.com/JakariaJishan)
-- LinkedIn: [/jakaria-jishan](https://www.linkedin.com/in/jakaria-jishan/)
-- Portfolio: [https://jakariajishan.github.io/portfolio-microverse/](https://jakariajishan.github.io/portfolio-microverse/)
-
-👤 **Fábio Lima**
-
-- GitHub: [@limavfabio](https://github.com/limavfabio)
-- LinkedIn: [/fábio-lima-a28b16182](https://www.linkedin.com/in/f%C3%A1bio-lima-a28b16182/)
-- Portfolio: [https://www.linkedin.com/in/f%C3%A1bio-lima-a28b16182/](https://www.linkedin.com/in/f%C3%A1bio-lima-a28b16182/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
