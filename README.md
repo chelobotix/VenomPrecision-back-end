@@ -60,6 +60,7 @@ VENOM PRECISION BACK-END is a Ruby on Rails application to provide endpoints for
 ### Live Demo <a name="live-demo"></a>
 
 > - [Venom Precision Backend](https://venom-precision.onrender.com/products)
+> - [Venom Precision Frontend](https://github.com/limavfabio/VenomPrecision-front-end/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
